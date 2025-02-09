@@ -1,5 +1,6 @@
 extends CanvasLayer
 
+# Notifies "Main" node that the button has been pressed
 signal start_game
 
 # Called when the node enters the scene tree for the first time.
